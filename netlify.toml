@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/auth"
+  to = "https://preview--aprovacaodabia.lovable.app/auth"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "/*"
+  to = "https://preview--aprovacaodabia.lovable.app/auth"
+  status = 200
+  force = false
